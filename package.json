@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript/issues"
   },
-  "homepage": "https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript#readme"
+  "homepage": "https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
