@@ -1,0 +1,20 @@
+{
+  "name": "ICS4U-Unit2-01-Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript/issues"
+  },
+  "homepage": "https://github.com/Felipe-Affonso047/ICS4U-Unit2-01-Typescript#readme"
+}
