@@ -8,13 +8,13 @@
 
 import * as readline from 'readline'
 
-function textReverser (s: string) {
+function textReverser (str: string) {
   // this function is a text reverser function.
-  if (s.length === 0) {
-    return s
+  if (str.length === 0) {
+    return str
   } else {
-    const lastChar: string = s.substr(s.length - 1)
-    const restOfStr: string = s.substr(0, s.length - 1)
+    const lastChar: string = str.substr(str.length - 1)
+    const restOfStr: string = str.substr(0, str.length - 1)
     const returnStr: string = lastChar + textReverser(restOfStr)
     return returnStr
   }
